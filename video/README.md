@@ -1,7 +1,7 @@
 ## 🎥 Demo Video / 系統展示影片
 
 🔗 **Watch the video (Demo)**  
-👉 [https://你的影片網址](https://drive.google.com/file/d/15cTS1yZtKmplyjHhNTffFTz-F-Muh8Bk/view?usp=sharing)
+👉 [範例影片](https://drive.google.com/file/d/15cTS1yZtKmplyjHhNTffFTz-F-Muh8Bk/view?usp=sharing)
 
 🎬 **Content shown in the video:**
 - Real-time password input on LCD
