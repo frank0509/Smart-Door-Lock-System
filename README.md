@@ -1,6 +1,5 @@
 # 🔐 Smart Door Lock System (ESP32)  
 **智慧電子密碼門鎖（ESP32）**
-[![Flowchart](docs/flowchart.jpg)](docs/flowchart.jpg)
 A smart password-protected lock based on **ESP32**, featuring **4×4 keypad input**, **LCD display**, **servo motor**, **buzzer alert**, and **RGB LED indicator (common anode)**.  
 本系統使用 **ESP32** 搭配 **4×4 鍵盤、LCD 顯示、伺服馬達、蜂鳴器與 RGB 共陽 LED**，實作具安全警告功能的智慧密碼門鎖，可於 **Wokwi 完整模擬或實體部署**。
 
@@ -127,6 +126,12 @@ Kun Shan University / 崑山科技大學資工系
    - 鎖定後重置輸入與錯誤次數
 
 ---
+<h3 align="center">🔐 系統流程圖 (Smart Door Lock Flowchart)</h3>
+<p align="center">
+  <img src="./docs/flowchart.jpg" width="450">
+</p>
+
+---
 
 ## 💻 Source Code / 程式碼位置
 
@@ -173,6 +178,7 @@ Kun Shan University / 崑山科技大學資工系
 
 This project is for academic and personal learning use.  
 本專案開放作為學習用途，禁止未授權商業使用。
+
 
 
 
