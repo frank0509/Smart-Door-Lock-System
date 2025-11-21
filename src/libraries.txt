@@ -1,0 +1,6 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+Keypad
+LiquidCrystal_I2C
+ESP32Servo
